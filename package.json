@@ -10,6 +10,11 @@
     "@types/node": "^16.11.45",
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
+    "@visx/axis": "^2.11.1",
+    "@visx/gradient": "^2.10.0",
+    "@visx/responsive": "^2.10.0",
+    "@visx/scale": "^2.2.2",
+    "d3-time-format": "^4.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -39,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/d3-time-format": "^4.0.0"
   }
 }
